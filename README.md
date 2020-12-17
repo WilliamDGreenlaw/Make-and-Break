@@ -1,6 +1,4 @@
-# Make and Break
-
-Creating and Exploiting a Virtual Machine
+# Make and Break: Creating and Exploiting a Virtual Machine
 
 ### Overview
 
