@@ -16,6 +16,6 @@ Make-and-Break is a cybersecurity project by William Greenlaw and Bryan Lachica 
 
 ### Resources
 
-[Video Presentation](https://youtu.be/_9ztC4sJ6vM)
+* [Video Presentation](https://youtu.be/_9ztC4sJ6vM)
 
-[Vulnerable VM OVA File](https://www.dropbox.com/sh/yjpbajtnhoe5r2q/AADXqtvTmjLtilZzfgHkBVTQa?dl=0)
+* [Vulnerable VM OVA File](https://www.dropbox.com/sh/yjpbajtnhoe5r2q/AADXqtvTmjLtilZzfgHkBVTQa?dl=0)
