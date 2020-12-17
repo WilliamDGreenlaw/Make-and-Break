@@ -8,6 +8,6 @@ Make-and-Break is a project by William Greenlaw and Bryan Lachica in which a vir
 
 ## Resources
 
-[Video](https://youtu.be/_9ztC4sJ6vM)
+[Video Presentation](https://youtu.be/_9ztC4sJ6vM)
 
-[Vulnerabile VM OVA File](https://www.dropbox.com/sh/yjpbajtnhoe5r2q/AADXqtvTmjLtilZzfgHkBVTQa?dl=0)
+[Vulnerable VM OVA File](https://www.dropbox.com/sh/yjpbajtnhoe5r2q/AADXqtvTmjLtilZzfgHkBVTQa?dl=0)
