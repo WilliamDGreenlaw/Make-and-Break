@@ -8,11 +8,11 @@ Make-and-Break is a cybersecurity project by William Greenlaw and Bryan Lachica 
 
 ## Features
 
-*Alien-themed, VulnHub-style VM
-*Boot to Root Challenge
+* Alien-themed, VulnHub-style VM
+* Boot to Root Challenge
 * Vulnerabilities 
-*"Secret" Files
-*CTF
+* "Secret" Files
+* CTF
 
 ## Resources
 
